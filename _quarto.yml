@@ -1,10 +1,16 @@
 project:
   type: book
+  output-dir: docs
 
+lang: fr
 book:
   title: "Loto"
-  author: "Norah Jones"
-  date: "12/03/2024"
+  author:
+    - name: Roger MARTIN
+      email: Roger57que@free.fr
+  date-format: "ddd DD MMM YYYY"
+  date: 2024-03-12
+
   chapters:
     - index.qmd
     - intro.qmd
@@ -12,10 +18,20 @@ book:
     - references.qmd
 
 bibliography: references.bib
-
+reference-location: margin
+footnotes-hover: true
+citation-location: margin
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: lux
+    highlight-style: vim-dark
+    fontsize: 1.35em
+    grid: 
+      sidebar-width: 225px
+      margin-width: 300px
+      gutter-width: 0.5rem
   pdf:
     documentclass: scrreprt
 
