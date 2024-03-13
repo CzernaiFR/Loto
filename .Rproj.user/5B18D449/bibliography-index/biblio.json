@@ -27,6 +27,25 @@
             "title": "Literate programming",
             "type": "article-journal",
             "volume": "27"
+        },
+        {
+            "URL": "http://fr.wikipedia.org/w/index.php?title=Loto_(jeu_de_la_Fran%C3%A7aise_des_jeux)&oldid=213168309",
+            "author": [
+                {
+                    "family": "Wikipédia"
+                }
+            ],
+            "id": "frwiki:loto",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "[En ligne; Page disponible le 8-mars-2024]",
+            "title": "Loto (jeu de la française des jeux) — wikipédia, l’encyclopédie libre",
+            "type": ""
         }
     ],
     "project_biblios": [
