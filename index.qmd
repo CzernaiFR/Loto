@@ -1,5 +1,24 @@
-# Preface {.unnumbered}
+---
+author:
+  - name: Roger MARTIN
+    email: Roger57que@free.fr
+date-format: "ddd DD MMM YYYY"
+date: 2024-03-12
+date-modified: last-modified
+---
 
-This is a Quarto book.
+# À propos des ces pages {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Soyez les bienvenus.
+
+Le but de ce bazar est de décortiquer les tirages du jeu de LOTO en France, un jeu de hasard[^index-1] de la Française des Jeux[^index-2].
+
+[^index-1]: Voir @frwiki:213043123
+
+[^index-2]: voir @frwiki:213319542
+
+Pour ce faire, je vais me baser sur l'historique des tirages depuis 2008. L'ensemble des tirages est disponible sur le site de la [FDJ](https://www.fdj.fr/jeux-de-tirage/loto/statistiques), mais j'ai décidé de me limiter aux jeu actuel avec $49$ numéros et $10$ numéros de chance[^index-3].
+
+[^index-3]: statistiquement parlant, le nom « numéro CHANCE » est très mal choisi
+
+## Méthodologie

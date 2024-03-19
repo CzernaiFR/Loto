@@ -1,32 +1,23 @@
 {
     "sources": [
         {
-            "DOI": "10.1093/comjnl/27.2.97",
-            "ISSN": "0010-4620",
-            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "URL": "http://fr.wikipedia.org/w/index.php?title=Fran%C3%A7aise_des_jeux&oldid=213319542",
             "author": [
                 {
-                    "family": "Knuth",
-                    "given": "Donald E."
+                    "family": "Wikipédia"
                 }
             ],
-            "container-title": "Comput. J.",
-            "id": "knuth84",
-            "issue": "2",
+            "id": "frwiki:213319542",
             "issued": {
                 "date-parts": [
                     [
-                        1984,
-                        5
+                        2024
                     ]
                 ]
             },
-            "page": "97-111",
-            "publisher": "Oxford University Press, Inc.",
-            "publisher-place": "USA",
-            "title": "Literate programming",
-            "type": "article-journal",
-            "volume": "27"
+            "note": "[En ligne; Page disponible le 13-mars-2024]",
+            "title": "Française des jeux — wikipédia, l’encyclopédie libre",
+            "type": ""
         },
         {
             "URL": "http://fr.wikipedia.org/w/index.php?title=Loto_(jeu_de_la_Fran%C3%A7aise_des_jeux)&oldid=213168309",
@@ -35,7 +26,7 @@
                     "family": "Wikipédia"
                 }
             ],
-            "id": "frwiki:loto",
+            "id": "frwiki:213168309",
             "issued": {
                 "date-parts": [
                     [
@@ -45,6 +36,44 @@
             },
             "note": "[En ligne; Page disponible le 8-mars-2024]",
             "title": "Loto (jeu de la française des jeux) — wikipédia, l’encyclopédie libre",
+            "type": ""
+        },
+        {
+            "URL": "http://fr.wikipedia.org/w/index.php?title=Hasard&oldid=213043123",
+            "author": [
+                {
+                    "family": "Wikipédia"
+                }
+            ],
+            "id": "frwiki:213043123",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "[En ligne; Page disponible le 4-mars-2024]",
+            "title": "Hasard — wikipédia, l’encyclopédie libre",
+            "type": ""
+        },
+        {
+            "URL": "http://fr.wikipedia.org/w/index.php?title=Probabilit%C3%A9s_(math%C3%A9matiques_%C3%A9l%C3%A9mentaires)&oldid=208790965",
+            "author": [
+                {
+                    "family": "Wikipédia"
+                }
+            ],
+            "id": "frwiki:208790965",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "[En ligne; Page disponible le 17-octobre-2023]",
+            "title": "Probabilités (mathématiques élémentaires) — wikipédia, l’encyclopédie libre",
             "type": ""
         }
     ],

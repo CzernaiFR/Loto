@@ -4,9 +4,30 @@
     "href": "index.html",
     "title": "Loto",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "À propos des ces pages\nSoyez les bienvenus.\nLe but de ce bazar est de décortiquer les tirages du jeu de LOTO en France, un jeu de hasard1 de la Française des Jeux2.\nPour ce faire, je vais me baser sur l’historique des tirages depuis 2008. L’ensemble des tirages est disponible sur le site de la FDJ, mais j’ai décidé de me limiter aux jeu actuel avec \\(49\\) numéros et \\(10\\) numéros de chance3.",
     "crumbs": [
-      "Preface"
+      "À propos des ces pages"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Annexe A — References",
+    "section": "",
+    "text": "Wikipédia. 2024a. “Française Des Jeux — Wikipédia,\nl’encyclopédie Libre.” http://fr.wikipedia.org/w/index.php?title=Fran%C3%A7aise_des_jeux&oldid=213319542.\n\n\n———. 2024b. “Hasard — Wikipédia, l’encyclopédie\nLibre.” http://fr.wikipedia.org/w/index.php?title=Hasard&oldid=213043123.",
+    "crumbs": [
+      "Annexes",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>References</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#méthodologie",
+    "href": "index.html#méthodologie",
+    "title": "Loto",
+    "section": "Méthodologie",
+    "text": "Méthodologie\n\n\n\n\nWikipédia. 2024a. « Française des jeux — Wikipédia, l’encyclopédie libre ». http://fr.wikipedia.org/w/index.php?title=Fran%C3%A7aise_des_jeux&oldid=213319542.\n\n\n———. 2024b. « Hasard — Wikipédia, l’encyclopédie libre ». http://fr.wikipedia.org/w/index.php?title=Hasard&oldid=213043123.",
+    "crumbs": [
+      "À propos des ces pages"
     ]
   }
 ]

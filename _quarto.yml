@@ -3,12 +3,24 @@ project:
   output-dir: docs
 
 lang: fr
+language: 
+  en:
+    title-block-author-single: "Author"
+    title-block-author-plural: "Authors"
+    title-block-published: "Published"
+    title-block-modified: "Modified"
+  fr:
+    title-block-author-single: "Auteur"
+    title-block-author-plural: "Auteur·e·s"
+    title-block-published: "Date de création"
+    title-block-modified: "Dernière modification"
+
 execute: 
   echo: fenced
 book:
   title: "Loto"
   downloads: pdf
-  page-footer: "Merci à [Git](https://git-scm.com/), [github](https://github.com/), [Python](https://www.python.org/), [quarto](https://quarto.org/), [RStudio](https://posit.co/download/rstudio-desktop/), [R](https://cran.rstudio.com/) et [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)"
+  page-footer: "Merci à [Git](https://git-scm.com/), [Github](https://github.com/), [Python](https://www.python.org/), [Quarto](https://quarto.org/), [RStudio](https://posit.co/download/rstudio-desktop/), [R](https://cran.rstudio.com/) et [Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)"
   author:
     - name: Roger MARTIN
       email: Roger57que@free.fr
@@ -32,12 +44,14 @@ book:
 
 bibliography: references.bib
 reference-location: margin
+citations-hover: true
 footnotes-hover: true
-citation-location: margin
+citation-location: document
+cap-location: margin
 format:
   html:
     theme:
-      dark: darkly
+      dark: solar
       light: lux
     highlight-style: vim-dark
     fontsize: 1.35em
